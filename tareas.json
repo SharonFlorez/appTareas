@@ -1,0 +1,34 @@
+[
+    {
+        "titulo": "finanzas",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "programacion",
+        "estado": "proceso"
+    },
+    {
+        "titulo": "multimedia",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "mercadeo",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "programacion",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "artes",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "matematicas",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "comercio",
+        "estado": "pendiente"
+    }
+]
